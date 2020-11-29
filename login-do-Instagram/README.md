@@ -25,7 +25,7 @@ Resolvi que não tinha interesse em fazer uma interface idêntica ao exemplo, en
 A proposta é uma tema escuro diferente do oficial utilizado pelo Instagram que é completamente preto.
 Um tema escuro não necessariamente precisa ser preto, então usei como exemplo a paleta de cores do tema escuro do Twitter.
 
-Decidi também fazer uma arte no canvas com uma interface que pudesse acompanhar o mesmo visual.
+Decidi também fazer uma arte de celular no canvas com uma interface que pudesse acompanhar o mesmo visual.
 
 ![Uma captura de tela com a página de login do Instragram criada em tamanho máximo.](https://cdn-images-1.medium.com/max/800/1*AUpnB6sBKKXBHfNCM3486A.png)
 

@@ -22,8 +22,8 @@ Página de login do Instagram: nesse projeto, foi abordado o conceito sobre CSS 
 
 Resolvi que não tinha interesse em fazer uma interface idêntica ao exemplo, então pensei em uma com a mesma estrutura mas com algumas diferenças, porém mantendo a responsividade que era o objetivo do projeto.
 
-A proposta é uma tema escuro diferente do oficial utilizado pelo instagram que é completamente preto.
-Um tema escuro não necessáriamente precisa ser preto, então usei como exemplo a paleta de cores do tema escuro do Twitter.
+A proposta é uma tema escuro diferente do oficial utilizado pelo Instagram que é completamente preto.
+Um tema escuro não necessariamente precisa ser preto, então usei como exemplo a paleta de cores do tema escuro do Twitter.
 
 Decidi também fazer uma arte no canvas com uma interface que pudesse acompanhar o mesmo visual.
 

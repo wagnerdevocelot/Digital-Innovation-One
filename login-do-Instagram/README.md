@@ -4,6 +4,10 @@
     <img src="https://cdn-images-1.medium.com/max/800/1*ZclUDN4nstdZKAwoJKT3KA.png" width="200" alt="Logo do Instagram">
 </p>
 
+---
+#### Deploy da aplicação: [Aqui!](https://insta-home-login.herokuapp.com/)
+---
+
 ![Badge](https://img.shields.io/badge/Front_End-Básico-%237159c1?style=for-the-badge&logo=ghost)  
 
 **_DESCRIÇÃO_**
@@ -11,7 +15,6 @@
 Página de login do Instagram: nesse projeto, foi abordado o conceito sobre CSS Flexbox e responsividade para estilização e posicionamento.
 
 #### 🛠 Tecnologias
-
 ---
 
 - html
